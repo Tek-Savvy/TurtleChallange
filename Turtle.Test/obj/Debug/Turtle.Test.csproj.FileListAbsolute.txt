@@ -1,0 +1,16 @@
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\bin\Debug\Turtle.Test.dll
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\bin\Debug\Turtle.Test.pdb
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\bin\Debug\Turtle.Library.dll
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\bin\Debug\Turtle.Library.pdb
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\obj\Debug\Turtle.Test.csprojAssemblyReference.cache
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\obj\Debug\Turtle.Test.csproj.CoreCompileInputs.cache
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\obj\Debug\Turtle.Test.csproj.CopyComplete
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\obj\Debug\Turtle.Test.dll
+C:\Users\x205605\Downloads\TurtleChallenge-master\TurtleChallenge\Turtle.Test\obj\Debug\Turtle.Test.pdb
